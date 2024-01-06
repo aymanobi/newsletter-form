@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/aymanobi/newsletter-form](https://github.com/aymanobi/newsletter-form)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://newsletter-form-eight.vercel.app/](https://newsletter-form-eight.vercel.app/)
 
 ## My process
 
